@@ -8,7 +8,6 @@ One person should type in the processes.
 ### Put each IPO in a different file.  
 
 ## Hello world - where does the output go, and why? 
-
 |Input                                                                    |Process                                            |Output                                               |
 |----------------------------------------------------|----------------------------------------|-----------------------------------------------------|
 |  ﻿﻿Question: How do I get to the bathroom? |           |  Stay silent |
