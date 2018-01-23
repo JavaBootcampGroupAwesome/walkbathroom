@@ -9,11 +9,34 @@ One person should type in the processes.
 
 ## Hello world - where does the output go, and why? 
 
-|Input              |Process                                 |Output                                               |
-|-------------------|----------------------------------------|-----------------------------------------------------|
-|                   |                                        | Speak:Hello                                         |
-|Person says:Hello  |Understand you have just been greeted   | Speak:Hello                                         |
-|                   |                                        | Speak:Hello                                         |
+|Input                                                                    |Process                                            |Output                                               |
+|----------------------------------------------------|----------------------------------------|-----------------------------------------------------|
+|  ﻿﻿Question: How do I get to the bathroom? |           |  Stay silent |
+|                                                                     | |
+|			               | 		|		|
+|Check your mood 			| 			|Smile		|
+|				| 			|Don't smile, but try not to be rude|
+|				||			|
+|				| |			|
+|				| |				|
+|				| 			|			|
+|				|  |				|
+|				|		                              |Speak: When you leave this room    |
+|				|			|(room 440/441), turn left and continue past the elevators.|
+|				||			|
+|				| 		|			|
+|Customer Service, or the student lounge      |						|			|	
+|				| |			|
+|				| 			|			|
+|				|					|Speak:Turn left just before the glass |
+|			                 |				                   |doors to the reception.|	
+|		|
+|				    					|Look for the bathrooms on your left.|
+|				|					|Room 408 (the room with a full-length |
+|				|					|glass window to the side) 	|
+|Person thanks you 			|					|			|
+|				| |Speak: You're welcome |
+
 
 ### Determine the inputs processes and outputs when someone asks for the bathroom: 
 
