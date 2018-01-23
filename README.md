@@ -1,3 +1,4 @@
+
 ## Clone this repository. 
 
 You will do this exercise in groups. 
@@ -9,11 +10,34 @@ One person should type in the processes.
 
 ## Hello world - where does the output go, and why? 
 
-|Input              |Process                                 |Output                                               |
-|-------------------|----------------------------------------|-----------------------------------------------------|
-|                   |                                        | Speak:Hello                                         |
-|Person says:Hello  |Understand you have just been greeted   | Speak:Hello                                         |
-|                   |                                        | Speak:Hello                                         |
+|Input                                                                    |Process                                            |Output                                               |
+|----------------------------------------------------|----------------------------------------|-----------------------------------------------------|
+|  ﻿﻿ |Listen to the question and think about an answer           |  |
+|                                                                     |Determine the manner and tone to use to communicate |
+|			               |with the person asking the question. 		|		|
+|			|If you are in a good mood 			|		|
+|				|If you are not in a good mood 			||
+|				|Determine the level of specificity the person asking the |			|
+|				| question will need - should I ask them to count steps, or|			|
+|				| will vague directions be enough? Tailor your output to|				|
+|				| the desired audience. 			|			|
+|				|Determine where the bathroom is in relation to your  |				|
+|				|current location		                              |   |
+|				|			||
+|				|Determine the landmarks that should be used to identify|			|
+|				| if the user is on the right track, e.g. 		|			|
+|    |						|			|	
+|				||			|
+|				|if the user has gone too far, e.g. 			|			|
+|				|					||
+|			                 |				                   ||	
+|		|
+|				    					||
+|				|					| |
+|				|					| 	|
+| 			|					|			|
+|				|Understand that gratitude has been expressed and respond accordingly | |
+
 
 ### Determine the inputs processes and outputs when someone asks for the bathroom: 
 
